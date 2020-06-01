@@ -1,0 +1,25 @@
+{
+  "name": "Homework8",
+  "version": "1.0.0",
+  "description": "A simple web backend",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Sumukh Bharadwaj",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

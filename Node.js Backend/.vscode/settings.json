@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/17f6f4e9-702e-4068-8f41-a4c788f237a6/resourceGroups/AppServiceQS-rg/providers/Microsoft.Web/sites/HW8-Backend"
+}
