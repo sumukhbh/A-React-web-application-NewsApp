@@ -1,0 +1,29 @@
+.nav-name {
+   background-image: linear-gradient(15deg, #0a1340 0%, #596fa5 103%);
+}
+
+
+.commentbox {
+   margin-top: 2%;
+}
+
+@media(max-width:800px)
+{.nav-search {
+  width:80%;
+}}
+
+
+@media(min-width:800px)
+{.nav-search {
+  width:23%;
+}}
+
+@media(min-width:800px)
+{.Search-Page {
+  margin-left:"3%" ;
+}}
+
+.mr-auto a:hover 
+{
+  color: white !important;
+}
